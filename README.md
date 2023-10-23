@@ -28,39 +28,50 @@ It's inspire from other resources.
 - [Quizess]()
 - [Hand-on assigment]()
 
-## Episode 1
+## Episode 3
+- [Code example](#https://forms.gle/3N2ASHvRZNPoxQV29)
+- [Quizess]()
+- [Hand-on assigment]()
+
+## Episode 4
+- [Code example](#https://forms.gle/68uynppX2RAibxTR6)
+- [Quizess]()
+- [Hand-on assigment]()
+
+## Episode 5
+- [Code example](#https://forms.gle/4kYfbvxz4EoBW2t79)
+- [Quizess]()
+- [Hand-on assigment]()
+
+## Episode 6
 - [Code example]()
 - [Quizess]()
 - [Hand-on assigment]()
 
-## Episode 1
+## Episode 7
 - [Code example]()
 - [Quizess]()
 - [Hand-on assigment]()
 
-## Episode 1
+## Episode 8
 - [Code example]()
 - [Quizess]()
 - [Hand-on assigment]()
 
-## Episode 1
+## Episode 9
+- [Code example](#https://forms.gle/DuQygjmo32fPaAbRA)
+- [Quizess]()
+- [Hand-on assigment]()
+
+
+## Episode 10
 - [Code example]()
 - [Quizess]()
 - [Hand-on assigment]()
 
-## Episode 1
-- [Code example]()
+
+## Episode 11
+- [Code example](#https://forms.gle/Dum1qdC9HstRVBZk6)
 - [Quizess]()
 - [Hand-on assigment]()
-
-## Episode 1
-- [Code example]()
-- [Quizess]()
-- [Hand-on assigment]()
-
-## Episode 1
-- [Code example]()
-- [Quizess]()
-- [Hand-on assigment]()
-
 
