@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Course Introduction](#course-introduction)
 - [PowerPoint Slide]()
-- [Episode 1](#module-1)
-- [Episode 2](#module-1)
+- [Episode 1](#episode-1)
+- [Episode 2](#episode-2)
 - [Episode 3](#module-1)
 - [Episode 4](#module-1)
 - [Episode 5](#module-1)
