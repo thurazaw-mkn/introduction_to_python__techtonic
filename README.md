@@ -21,7 +21,7 @@ This course made by Techtonic team for education purpose for college project.
 It's inspire from other resources.
 
 ## PowerPoint Slide
-- [Introduction to Python _ Lecture slide ](#https://github.com/thurazaw-mkn/introduction_to_python__techtonic/blob/main/IntroductionToPythonLectureSlide.pptx)
+- [Introduction to Python _ Lecture slide ](https://github.com/thurazaw-mkn/introduction_to_python__techtonic/blob/main/IntroductionToPythonLectureSlide.pptx)
 
 ## Episode 1
 - [Code example](#https://github.com/thurazaw-mkn/introduction_to_python__techtonic/blob/main/CodeExample/Episode1)
